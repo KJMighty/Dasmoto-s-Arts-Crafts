@@ -1,0 +1,95 @@
+/* banner section */
+
+.banner{
+	color: khaki;
+	font-family: helvetica;
+	font-size: 40px;
+	font-weight: bold;
+	background-image: url('../images/pattern.jpeg');
+	background-color: white;
+	display: block;
+	text-align: center;
+	height: 90px;
+}
+/*brush section*/
+
+#brushes-title{
+	background-color: mediumspringgreen;
+	color:white;
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 25px;
+	height: 30px;
+}
+
+#hacksaw-brushes-title{
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.brushes p{
+    font-family: helvetica;
+	font-weight: bold;
+}
+
+a.brush-price{
+    font-family: helvetica;
+	font-weight: bold;
+	color: blue;
+}
+
+/*frame section*/
+
+#frames-title{
+background-color: lightcoral;
+	color:white;
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 25px;
+	height: 30px;
+}
+
+#art-frames{
+font-family: helvetica;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.frames p{
+font-family: helvetica;
+	font-weight: bold;
+}
+
+a.frame-price{
+    font-family: helvetica;
+	font-weight: bold;
+	color: blue;
+}
+
+	/*paint section*/
+
+	#paint-title{
+    background-color: skyblue;
+	color:white;
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 25px;
+	height: 30px;
+}
+
+#finnish-paint{
+font-family: helvetica;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.paint p{
+    font-family: helvetica;
+	font-weight: bold;
+}
+
+a.paint-price{
+    font-family: helvetica;
+	font-weight: bold;
+	color: blue;
